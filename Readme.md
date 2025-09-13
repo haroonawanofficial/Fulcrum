@@ -2,7 +2,7 @@
 
 **Turning the network's own foundation into a weapon for total compromise.**
 
-Lan Fulcrum is an advanced, interactive penetration testing framework designed for offensive security professionals. It moves beyond simple vulnerability scanning to weaponize the very protocols that networks rely on, finding the critical pivot point to achieve total domain dominance—even in segmented and air-gapped environments.
+Lan Fulcrum is an advanced, interactive penetration testing framework designed for offensive security professionals. It moves beyond simple vulnerability scanning to weaponize the very protocols that networks rely on, finding the critical pivot point to achieve total domain dominance, even in segmented, Vlan to Vlan (example; Palo Alto encrypted internal protected segments), encrypted or unencrypted or/and air-gapped environments even if the network is bugged/wired/cloud tapped, Guess what? Fulcrum will provide you in-depth details!
 
 ![GitHub](https://img.shields.io/badge/Python-3.x-%23FFD43B?logo=python)
 ![GitHub](https://img.shields.io/badge/License-GPLv3-blue)
