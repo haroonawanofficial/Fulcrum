@@ -17,6 +17,13 @@ Fulcrum is an advanced, interactive penetration testing framework designed for o
 *   **Covert Channels:** Data exfiltration via custom EtherTypes and packet padding exploits.
 *   **Interactive Chat Interface:** An intuitive, command-driven interface for guided network exploration and assault.
 
+## 🚀 Total Dominance & Compromise PoC Visuals
+> Captured internal traffic protected by Palo Alto’s Advanced AI Firewall with full security configurations enabled
+
+
+![Diagram 1](https://i.ibb.co/YTXZ4y59/picture2.png)
+![Diagram 2](https://i.ibb.co/KpWwJX3h/picture.png)
+
 ## ⚡ Why Fulcrum? The Competitive Edge
 
 | Feature | Fulcrum | Yersinia | Other Tools |
