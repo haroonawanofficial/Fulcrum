@@ -25,7 +25,7 @@ Fulcrum is an advanced, interactive penetration testing framework designed for o
 
 > Total Dominance/Compromise for internal/external devices/components and traffic from separate Vlans
 
-![Diagram 2](https://i.ibb.co/KpWwJX3h/picture.png)
+![Diagram 2](https://i.ibb.co/nqSn3XcD/picture.png)
 
 ## ⚡ Why Fulcrum? The Competitive Edge
 
