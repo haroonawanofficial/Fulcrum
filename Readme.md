@@ -31,7 +31,7 @@ Lan Fulcrum is an advanced, interactive penetration testing framework designed f
 
 ## ⚠️ Disclaimer
 
-**I take zero responsibility, it was a challeneged and it looks like I killed every Vlan/Switch/FW/Router in the world. Fulcrum is intended for authorized security testing and educational purposes only. Any use of this tool against a network without explicit, prior permission is strictly prohibited. The user assumes all responsibility for their actions.**
+**I take zero responsibility, it was a challenege and it looks like I killed every Vlan/Switch/FW/Router in the world. Fulcrum is intended for authorized security testing and educational purposes only. Any use of this tool against a network without explicit, prior permission is strictly prohibited. The user assumes all responsibility for their actions.**
 
 ## 📦 Installation
 
