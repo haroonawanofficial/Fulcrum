@@ -77,4 +77,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 **Haroon Awan** - [github.com/haroonawanofficial](https://github.com/haroonawanofficial)
 
-*If Fulcrum gave you leverage, consider giving it a ⭐ on GitHub!*
+*If Fulcrum gave you visible leverage, consider giving it a ⭐ on GitHub!*
