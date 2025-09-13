@@ -1,4 +1,4 @@
-# Lan Fulcrum
+# Fulcrum
 
 **Turning the network's own foundation into a weapon for total compromise.**
 
@@ -27,11 +27,11 @@ Lan Fulcrum is an advanced, interactive penetration testing framework designed f
 | **Stealth & Evasion** | **Firewall DPI bypass**, log flooding, covert channels | Noisy, obvious attacks | Varies; often not a primary focus |
 | **Usability** | **Interactive chat** with guided help | Complex CLI with multiple modes | Often complex, disjointed CLI arguments |
 
-**In short: Fulcrum isn't just another protocol attacker. It's a unified command center for total network dominance, seamlessly integrating the deep L2 exploitation of Yersinia with the post-exploitation power of frameworks like Metasploit.**
+**Fulcrum a unified command center for total network dominance, seamlessly integrating the deep L2 exploitation of Yersinia with the post-exploitation power of frameworks like Metasploit.**
 
 ## ⚠️ Disclaimer
 
-**I take zero responsibility, it was a challeneged and we fucked every FW/Router in the world. Lan- Fulcrum is intended for authorized security testing and educational purposes only. Any use of this tool against a network without explicit, prior permission is strictly prohibited. The user assumes all responsibility for their actions.**
+**I take zero responsibility, it was a challeneged and it looks like I killed everyone FW/Router in the world. Fulcrum is intended for authorized security testing and educational purposes only. Any use of this tool against a network without explicit, prior permission is strictly prohibited. The user assumes all responsibility for their actions.**
 
 ## 📦 Installation
 
