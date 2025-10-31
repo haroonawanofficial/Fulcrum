@@ -17,6 +17,17 @@ Fulcrum is an advanced, interactive penetration testing framework designed for o
 *   **Covert Channels:** Data exfiltration via custom EtherTypes and packet padding exploits.
 *   **Interactive Chat Interface:** An intuitive, command-driven interface for guided network exploration and assault.
 
+### 🌐 Estimated Global Exposure Based What Fulcrum Can Do (2025)
+
+| Vendor         | Estimated Devices Deployed | Potentially Vulnerable | Attack Surface Highlights                        |
+|----------------|-----------------------------|-------------------------|--------------------------------------------------|
+| Cisco          | ~300–400 million            | ~100–150 million        | SNMP, NetFlow, VLAN trust, ACLs, BGP             |
+| Juniper        | ~30–50 million              | ~10–20 million          | Routing plane, encrypted segments, protocol pivoting |
+| Palo Alto      | ~25–40 million              | ~8–15 million           | Firewall segmentation, management plane, trust bypass |
+| Others         | ~50–100 million             | ~20–30 million          | MikroTik, Fortinet, Huawei, etc.                 |
+| **Total**      | **~400–600 million**        | **~150–200 million**    | Protocol-level exploitation across OSI stack     |
+
+
 ## 🚀 Total Dominance & Compromise PoC Visuals
 > Protected by Palo Alto’s Advanced AI Firewall with full security configurations enabled
 
